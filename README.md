@@ -98,7 +98,7 @@ JWT_SECRET=your_jwt_secret
 🔍 Search and Pagination
 
 
-##📌 Future Enhancements
+📌 Future Enhancements
 🧵 Add Comments to Posts
 
 ❤️ Like/Reaction system
@@ -109,6 +109,6 @@ JWT_SECRET=your_jwt_secret
 
 📱 Mobile UI enhancements
 
-##👤 Author
+👤 Author
 Rebeccah Miruka
 Week 4 MERN Stack Assignment
