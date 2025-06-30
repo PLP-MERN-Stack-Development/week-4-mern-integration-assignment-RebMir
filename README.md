@@ -87,9 +87,8 @@ Here's the .env.example file included in the repo:
 PORT=5000
 MONGODB_URI=mongodb+srv://<username>:<password>@cluster.mongodb.net/mern-blog
 JWT_SECRET=your_jwt_secret
-🖼️ Screenshots
-Replace the links below with actual image links or local image references
 
+🖼️ Screenshots
 🏠 Home Page
 
 🔐 Register Page
@@ -98,7 +97,8 @@ Replace the links below with actual image links or local image references
 
 🔍 Search and Pagination
 
-📌 Future Enhancements
+
+##📌 Future Enhancements
 🧵 Add Comments to Posts
 
 ❤️ Like/Reaction system
@@ -109,6 +109,6 @@ Replace the links below with actual image links or local image references
 
 📱 Mobile UI enhancements
 
-👤 Author
+##👤 Author
 Rebeccah Miruka
 Week 4 MERN Stack Assignment
